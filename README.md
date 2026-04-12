@@ -4,14 +4,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0F2E&height=230&section=header&text=ESPEN%20H.%20KRISTENSEN&fontSize=36&fontColor=F5A623&fontAlignY=40&desc=Turning%20caffeine%20into%20pipelines%20since%202015.&descSize=16&descAlignY=58&descColor=CCCCCC" width="100%" alt="Espen H. Kristensen"/>
 </a>
 
-<a href="https://espenhk.lovable.app">
-  <img src="https://img.shields.io/badge/espenhk.lovable.app-PORTFOLIO-F5A623?style=for-the-badge&labelColor=0D0F2E&logo=vercel&logoColor=F5A623" height="70" alt="Portfolio — espenhk.lovable.app"/>
-</a>
-
-<br/><br/>
 
 Passionate about data engineering, LLMs and responsible AI.<br/>
 Mathematical background, sports geek, cocktail nerd.
+
+<a href="https://espenhk.lovable.app">
+  <img src="https://img.shields.io/badge/espenhk.lovable.app-PORTFOLIO-F5A623?style=for-the-badge&labelColor=0D0F2E&logo=vercel&logoColor=F5A623" height="70" alt="Portfolio — espenhk.lovable.app"/>
+</a>
 
 <br/>
 
@@ -21,20 +20,15 @@ Mathematical background, sports geek, cocktail nerd.
 &nbsp;
 [![Email](https://img.shields.io/badge/espenhkristensen%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:espenhkristensen@gmail.com)
 
-<br/>
-
 <a href="https://linkedin.com/in/espenhk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25" width="30"/></a>
 <a href="https://medium.com/@espenhk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="25" width="30"/></a>
 <a href="https://bsky.app/profile/bgosl.bsky.social" target="blank"><img src="https://cdn.simpleicons.org/bluesky/0285FF" height="25" width="25"/></a>
 <a href="https://instagram.com/bgosl" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="25" width="30"/></a>
 <a href="https://www.youtube.com/c/espenhk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="25" width="30"/></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=espenhk&theme=dark&background=0D0F2E&border=F5A623&ring=F5A623&fire=F5A623&currStreakLabel=F5A623&sideLabels=CCCCCC&dates=CCCCCC&hide_border=false" height="140" alt="espenhk streak"/>
-
-<br/>
-<img src="https://komarev.com/ghpvc/?username=espenhk&label=Profile%20views&color=F5A623&style=flat" alt="espenhk"/>
 
 </div>
 
