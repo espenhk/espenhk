@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I play American football - in Norway!**
 
+[![Espen's GitHub stats](https://github-readme-stats.vercel.app/api?username=espenhk)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
