@@ -53,37 +53,34 @@ Mathematical background, sports geek, cocktail nerd.
 
 **PLATFORMS**
 
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="14" width="14"/> **Azure** &nbsp; `████████░░` 80
-
-<img src="https://cdn.simpleicons.org/databricks/FF3621" height="14" width="14"/> **Azure Databricks** &nbsp; `████████░░` 80
-
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="14" width="14"/> **Power BI** &nbsp; `██████░░░░` 60
-
-<img src="https://cdn.simpleicons.org/apachekafka/231F20" height="14" width="14"/> **Kafka / Confluent** &nbsp; `███░░░░░░░` 35
+| | |
+|:--|--:|
+| <img src="https://cdn.simpleicons.org/databricks/FF3621" height="14" width="14"/> Azure Databricks | `████████░░` 80 |
+| <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="14" width="14"/> Power BI | `██████░░░░` 60 |
+| <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="14" width="14"/> Kafka / Confluent | `███░░░░░░░` 35 |
 
 </td>
 <td valign="top" width="33%">
 
 **SKILLS & DOMAINS**
 
-<img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="14" width="14"/> **Data Engineering** &nbsp; `████████░░` 85
-
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="14" width="14"/> **Cloud Architecture** &nbsp; `███████░░░` 70
-
-<img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" height="14" width="14"/> **Integration** &nbsp; `██████░░░░` 60
-
-<img src="https://cdn.simpleicons.org/openai/000000" height="14" width="14"/> **GenAI / LLMs** &nbsp; `█████░░░░░` 50
+| | |
+|:--|--:|
+| <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="14" width="14"/> Data Engineering | `████████░░` 85 |
+| <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="14" width="14"/> Cloud Architecture | `███████░░░` 70 |
+| <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" height="14" width="14"/> Integration | `██████░░░░` 60 |
+| <img src="https://cdn.simpleicons.org/openai/000000" height="14" width="14"/> GenAI / LLMs | `█████░░░░░` 50 |
 
 </td>
 <td valign="top" width="33%">
 
 **TECH & CODE**
 
-<img src="https://cdn.simpleicons.org/postgresql/336791" height="14" width="14"/> **SQL** &nbsp; `████████░░` 80
-
-<img src="https://cdn.simpleicons.org/python/3776AB" height="14" width="14"/> **Python** &nbsp; `███████░░░` 75
-
-<img src="https://cdn.simpleicons.org/terraform/7B42BC" height="14" width="14"/> **Terraform** &nbsp; `████░░░░░░` 45
+| | |
+|:--|--:|
+| <img src="https://cdn.simpleicons.org/postgresql/336791" height="14" width="14"/> SQL | `████████░░` 80 |
+| <img src="https://cdn.simpleicons.org/python/3776AB" height="14" width="14"/> Python | `███████░░░` 75 |
+| <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="14" width="14"/> Terraform | `████░░░░░░` 45 |
 
 </td>
 </tr>
