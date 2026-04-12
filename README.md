@@ -17,7 +17,7 @@ Mathematical background, sports geek, cocktail nerd.
 
 <br/>
 
-![PwC Norway](https://img.shields.io/badge/PwC_Norway-Manager-D04A02?style=flat-square&logoColor=white)
+[![PwC Norway](https://img.shields.io/badge/PwC_Norway-Manager-D04A02?style=flat-square&logoColor=white)](https://linkedin.com/in/espenhk)
 &nbsp;
 ![Oslo](https://img.shields.io/badge/Oslo_🇳🇴-1a1a2e?style=flat-square)
 &nbsp;
@@ -27,7 +27,7 @@ Mathematical background, sports geek, cocktail nerd.
 
 <a href="https://linkedin.com/in/espenhk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25" width="30"/></a>
 <a href="https://medium.com/@espenhk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="25" width="30"/></a>
-<a href="https://x.com/espenhk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="25" width="30"/></a>
+<a href="https://bsky.app/profile/bgosl.bsky.social" target="blank"><img src="https://cdn.simpleicons.org/bluesky/0285FF" height="25" width="25"/></a>
 <a href="https://instagram.com/bgosl" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="25" width="30"/></a>
 <a href="https://www.youtube.com/c/espenhk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="25" width="30"/></a>
 
@@ -49,9 +49,8 @@ Mathematical background, sports geek, cocktail nerd.
 | | |
 |:--|--:|
 | <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="14" width="14"/> Data Engineering | `████████░░` 85 |
-| <img src="https://cdn.simpleicons.org/postgresql/336791" height="14" width="14"/> SQL | `████████░░` 80 |
-| <img src="https://cdn.simpleicons.org/ibm/052FAD" height="14" width="14"/> Integration | `██████░░░░` 60 |
-| <img src="https://cdn.simpleicons.org/openai/74aa9c" height="14" width="14"/> GenAI / LLMs | `█████░░░░░` 50 |
+| <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" height="14" width="14"/> Integration | `██████░░░░` 60 |
+| <img src="https://cdn.simpleicons.org/openai/000000" height="14" width="14"/> GenAI / LLMs | `█████░░░░░` 50 |
 
 </td>
 <td valign="top" width="33%">
@@ -72,8 +71,8 @@ Mathematical background, sports geek, cocktail nerd.
 | | |
 |:--|--:|
 | <img src="https://cdn.simpleicons.org/python/3776AB" height="14" width="14"/> Python | `███████░░░` 75 |
+| <img src="https://cdn.simpleicons.org/postgresql/336791" height="14" width="14"/> SQL | `████████░░` 80 |
 | <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="14" width="14"/> Terraform | `████░░░░░░` 45 |
-| <img src="https://cdn.simpleicons.org/typescript/3178C6" height="14" width="14"/> TypeScript | `████░░░░░░` 40 |
 
 </td>
 </tr>
@@ -94,16 +93,13 @@ Mathematical background, sports geek, cocktail nerd.
 
 ## FEATURED WRITING
 
-> Writing on data privacy, AI ethics, and governance — for practitioners.
+> Writing on data privacy, AI ethics, and governance — for practitioners. All articles → [medium.com/@espenhk](https://medium.com/@espenhk)
 
 | | Article | Topic |
 |:---:|:---|:---|
-| ✍️ | [**Anonymizing Data in Practice — The Why \[1/4\]**](https://medium.com/kantega/anonymizing-data-in-practice-the-whys-the-hows-and-the-wtfs-1-4-the-why-ac80fe18f710) | Why anonymization is harder than it looks — and why it matters |
+| ✍️ | [Anonymizing Data in Practice:](https://medium.com/kantega/anonymizing-data-in-practice-the-whys-the-hows-and-the-wtfs-1-4-the-why-ac80fe18f710) parts [1](https://medium.com/kantega/anonymizing-data-in-practice-the-whys-the-hows-and-the-wtfs-1-4-the-why-ac80fe18f710), [2](https://medium.com/kantega/anonymizing-data-in-practice-the-whys-the-how-s-and-the-wtf-s-2-4-the-how-11237a37771d), [3](https://medium.com/kantega/anonymizing-data-in-practice-the-whys-the-how-s-and-the-wtf-s-3-4-75e4fef8f775), [4](https://medium.com/@espenhk/anonymizing-data-in-practice-the-whys-the-how-s-and-the-wtf-s-4-4-the-message-3fc347ac61b1) | Data anonymization — the why's, how's, and WTF's |
 | ✍️ | [**Norway published 'The 10 commandments of AI' — here's what they say, and why they matter**](https://medium.com/@espenhk/norway-published-the-10-commandments-of-ai-heres-what-they-say-and-why-they-matter-2b670967eb9b) | Norwegian AI governance policy analysis |
-| ✍️ | [**Responsible AI is the responsibility of the entire organization!**](https://medium.com/kantega/responsible-ai-is-the-responsibility-of-the-entire-organization-0f01f141031d) | Org-wide AI ethics — not just the data team's problem |
 | ✍️ | [**Exploring the Responsible AI Landscape: Books for Every Level**](https://medium.com/@espenhk/exploring-the-responsible-ai-landscape-books-for-every-level-of-curiosity-and-expertise-fee05a296b8d) | Curated reading list from beginner to expert |
-
-All articles → [medium.com/@espenhk](https://medium.com/@espenhk)
 
 ---
 
