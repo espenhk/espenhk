@@ -7,13 +7,11 @@
 
 - 🌱 I’m currently learning **Lovable, Claude Code +++**
 
-- 🤝 I’m looking for help with **Agentic Coding Tools**
-
 - 👨‍💻 All of my projects are available at [https://espenhk.lovable.app/](https://espenhk.lovable.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@espenhk](https://medium.com/@espenhk)
 
-- 💬 Ask me about **Python, PySpark, Terraform**
+- 💬 Ask me about **Python, PySpark, Terraform, Azure, Generative AI**
 
 - 📫 How to reach me **espenhkristensen@gmail.com**
 
