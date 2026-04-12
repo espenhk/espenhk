@@ -1,14 +1,16 @@
 <div align="center">
 
 <a href="https://espenhk.lovable.app">
-  <img src="https://img.shields.io/badge/🌐%20espenhk.lovable.app-PORTFOLIO-F5A623?style=for-the-badge&labelColor=0D0F2E&logoColor=F5A623" height="42" alt="Portfolio — espenhk.lovable.app"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0F2E&height=230&section=header&text=ESPEN%20H.%20KRISTENSEN&fontSize=36&fontColor=F5A623&fontAlignY=40&desc=Turning%20caffeine%20into%20pipelines%20since%202015.&descSize=16&descAlignY=58&descColor=CCCCCC" width="100%" alt="Espen H. Kristensen"/>
+</a>
+
+<br/>
+
+<a href="https://espenhk.lovable.app">
+  <img src="https://img.shields.io/badge/espenhk.lovable.app-PORTFOLIO-F5A623?style=for-the-badge&labelColor=0D0F2E&logo=vercel&logoColor=F5A623" height="56" alt="Portfolio — espenhk.lovable.app"/>
 </a>
 
 <br/><br/>
-
-<a href="https://espenhk.lovable.app">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0F2E&height=180&section=header&text=ESPEN%20H.%20KRISTENSEN&fontSize=36&fontColor=F5A623&fontAlignY=44&desc=Turning%20caffeine%20into%20pipelines%20since%202015.&descSize=16&descAlignY=66&descColor=CCCCCC" width="100%" alt="Espen H. Kristensen"/>
-</a>
 
 Passionate about data engineering, LLMs and responsible AI.<br/>
 Mathematical background, sports geek, cocktail nerd.
@@ -46,10 +48,10 @@ Mathematical background, sports geek, cocktail nerd.
 
 | | |
 |:--|--:|
-| Data Engineering | `████████░░` 85 |
-| SQL | `████████░░` 80 |
-| Integration | `██████░░░░` 60 |
-| GenAI / LLMs | `█████░░░░░` 50 |
+| <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="14" width="14"/> Data Engineering | `████████░░` 85 |
+| <img src="https://cdn.simpleicons.org/postgresql/336791" height="14" width="14"/> SQL | `████████░░` 80 |
+| <img src="https://cdn.simpleicons.org/ibm/052FAD" height="14" width="14"/> Integration | `██████░░░░` 60 |
+| <img src="https://cdn.simpleicons.org/openai/74aa9c" height="14" width="14"/> GenAI / LLMs | `█████░░░░░` 50 |
 
 </td>
 <td valign="top" width="33%">
@@ -58,9 +60,9 @@ Mathematical background, sports geek, cocktail nerd.
 
 | | |
 |:--|--:|
-| Azure Databricks | `████████░░` 80 |
-| Power BI | `██████░░░░` 60 |
-| Kafka / Confluent | `███░░░░░░░` 35 |
+| <img src="https://cdn.simpleicons.org/databricks/FF3621" height="14" width="14"/> Azure Databricks | `████████░░` 80 |
+| <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="14" width="14"/> Power BI | `██████░░░░` 60 |
+| <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="14" width="14"/> Kafka / Confluent | `███░░░░░░░` 35 |
 
 </td>
 <td valign="top" width="33%">
@@ -69,13 +71,24 @@ Mathematical background, sports geek, cocktail nerd.
 
 | | |
 |:--|--:|
-| Python | `███████░░░` 75 |
-| Terraform | `████░░░░░░` 45 |
-| TypeScript | `████░░░░░░` 40 |
+| <img src="https://cdn.simpleicons.org/python/3776AB" height="14" width="14"/> Python | `███████░░░` 75 |
+| <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="14" width="14"/> Terraform | `████░░░░░░` 45 |
+| <img src="https://cdn.simpleicons.org/typescript/3178C6" height="14" width="14"/> TypeScript | `████░░░░░░` 40 |
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+**COMMENDATIONS**
+
+![PL-300](https://img.shields.io/badge/PL--300_Power_BI_Data_Analyst-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![DP-900](https://img.shields.io/badge/DP--900_Azure_Data_Fundamentals-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Confluent](https://img.shields.io/badge/Confluent_Fundamentals_Accreditation-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![IBM App Connect](https://img.shields.io/badge/IBM_Certified_Solution_Developer_App_Connect_V11-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![IBM Event Streams](https://img.shields.io/badge/IBM_Event_Streams_Developer_Essentials-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![SAFe](https://img.shields.io/badge/Certified_SAFe®_5_Agilist-F5A623?style=flat-square&logoColor=0D0F2E)
 
 ---
 
@@ -150,17 +163,6 @@ All articles → [medium.com/@espenhk](https://medium.com/@espenhk)
 | Master courses — Language Technology & Machine Learning | University of Oslo | 2018 – 2020 |
 | BSc Mathematics, Informatics and Technology | University of Oslo | 2014 – 2018 |
 
-<br/>
-
-**COMMENDATIONS**
-
-![PL-300](https://img.shields.io/badge/PL--300_Power_BI_Data_Analyst-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![DP-900](https://img.shields.io/badge/DP--900_Azure_Data_Fundamentals-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Confluent](https://img.shields.io/badge/Confluent_Fundamentals_Accreditation-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![IBM App Connect](https://img.shields.io/badge/IBM_Certified_Solution_Developer_App_Connect_V11-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![IBM Event Streams](https://img.shields.io/badge/IBM_Event_Streams_Developer_Essentials-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![SAFe](https://img.shields.io/badge/Certified_SAFe®_5_Agilist-F5A623?style=flat-square&logoColor=0D0F2E)
-
 ---
 
 ## TECH STACK
@@ -209,11 +211,5 @@ All articles → [medium.com/@espenhk](https://medium.com/@espenhk)
   &nbsp;
   <img src="https://streak-stats.demolab.com/?user=espenhk&theme=dark&background=0D0F2E&border=F5A623&ring=F5A623&fire=F5A623&currStreakLabel=F5A623&sideLabels=CCCCCC&dates=CCCCCC" height="150" alt="espenhk streak"/>
 </p>
-
----
-
-### LATEST POSTS
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0F2E&height=80&section=footer" width="100%" alt="footer"/>
